@@ -53,7 +53,7 @@ console.log(f);
 
 //substr
 let g = f.substr(2,4);
-console.log(h);
+console.log(g);
 
 //substring
 
