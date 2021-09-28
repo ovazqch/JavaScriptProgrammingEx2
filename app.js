@@ -56,5 +56,11 @@ let g = f.substr(2,4);
 console.log(g);
 
 //substring
+let h = f.substring(3);
+console.log(h);
+
+//indexOf
+let index = f.indexOf("c");
+console.log(index);
 
 
